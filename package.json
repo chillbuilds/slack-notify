@@ -1,0 +1,22 @@
+{
+  "name": "slack-notify",
+  "version": "1.0.0",
+  "description": "App for sending slack notifications in response to switch/facebook timeout errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliumface770/slack-notify.git"
+  },
+  "author": "Will Wojeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heliumface770/slack-notify/issues"
+  },
+  "homepage": "https://github.com/heliumface770/slack-notify#readme",
+  "dependencies": {
+    "@slack/web-api": "5.4.0"
+  }
+}
